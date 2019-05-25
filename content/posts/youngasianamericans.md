@@ -22,12 +22,12 @@ Older Asian-American voters tend to be more apathetic to both parties, whereas n
 In general, older people tend to have a higher voter turnout. For instance, the following graph shows voter turnout in the 2016 general election.
 
 ![2016 Overall Voter Turnout by Age Group](/images/youngasianamericans3.png)
-<sub><sup>Data Compiled from US Census Bureau vote</sup></sub>
+<sub><sup>Data Compiled from US Census Bureau</sup></sub>
 
 With Asian-Americans though, the relationship is not nearly as drastic.
 
 ![2016  Voter Turnout of Citizens](/images/youngasianamericans4.png)
-<sub><sup>Data Compiled from US Census Bureau vote</sup></sub>
+<sub><sup>Data Compiled from US Census Bureau</sup></sub>
 
 Although older voters still had higher turnout in the Asian-American community, it is clear that a transition in the Asian-American community is occurring. Younger Asian-Americans are becoming more politically-engaged and more liberal than their parents, and the Democratic party should take note.
 
