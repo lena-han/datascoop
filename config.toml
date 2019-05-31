@@ -11,7 +11,7 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [params]
-  favicon = "/images/favicon-16x16.png"
+  favicon = "/images/favicon.ico"
   description = "Telling Stories With Data"
   facebook = ""
   twitter = ""
