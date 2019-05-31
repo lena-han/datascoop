@@ -11,7 +11,7 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [params]
-  favicon = ""
+  favicon = "/images/logo.png"
   description = "Telling Stories With Data"
   facebook = ""
   twitter = ""
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   github = "https://github.com/lena-han"
   gitlab = ""
   linkedin = "https://www.linkedin.com/in/lena-han/"
-  mastodon = "/images/Screen Shot 2018-09-14 at 12.10.15 AM.png"
+  mastodon = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
