@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
   
 [params]
-  favicon = "/images/favicon.ico"
+  favicon = "/favicon.ico"
   description = "Telling Stories With Data"
   facebook = ""
   twitter = ""
