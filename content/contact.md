@@ -9,8 +9,5 @@ menu:
 
 ---
 
-<form method="POST" action="https://formspree.io/lena.angela.han@gmail.com">
-  <input type="email" name="email" placeholder="Your email">
-  <textarea name="message" placeholder="Test Message"></textarea>
-  <button type="submit">Send Test</button>
-</form>
+<form action="https://formspree.io/lena.angela.han@gmail.com" method="POST" />
+<input type="text" name="name">
