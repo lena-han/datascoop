@@ -8,6 +8,4 @@ menu:
   main: {}
 
 ---
-
-{{<form action="https://formspree.io/lena.angela.han@gmail.com" method="POST" />}}
-{{<input type="text" name="name">}}
+{{< form-contact action="https://formspree.io/"  >}}
