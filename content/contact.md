@@ -10,4 +10,5 @@ menu:
 ---
 
 <form action="https://formspree.io/lena.angela.han@gmail.com" method="POST" />
-<input type="text" name="name">
+Name: <input type="text" name="name">
+Message: <input type="text" message="message">
