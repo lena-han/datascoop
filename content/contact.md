@@ -9,5 +9,5 @@ menu:
 
 ---
 
-<form action="https://formspree.io/lena.angela.han@gmail.com" method="POST" />
-<input type="text" name="name">
+{{<form action="https://formspree.io/lena.angela.han@gmail.com" method="POST" />}}
+{{<input type="text" name="name">}}
