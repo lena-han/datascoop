@@ -8,6 +8,7 @@ With the 2020 Democratic Primary heading into full swing soon, every candidate i
 Below are graphs categorizing every tv campaign ad aired during the 2016 primary. TV ads paint a window into how candidates appeal themselves to mass audiences and which messages they dedicate their time towards promoting.
 
 ![Clinton 2016 Ads](/images/TVClinton.png)
+
 ![Sanders 2016 Ads](/images/TVSanders.png)
 <sub><sup> Data compiled from the campaign ad archive found [here](https://newrepublic.com/political-ad-database) </sup></sub>
 
