@@ -4,6 +4,8 @@ author: Lena Han
 date: 2019-06-06T14:59:50-07:00
 draft: false
 ---
+<sup>*Author: Lena Han*</sup>
+
 With the 2020 Democratic Primary heading into full swing soon, every candidate is striving to carve out their own unique place in the field. Although certain issues, such as healthcare, are universally popular and will undoubtedly become talking points for all the candidates, other issues will be important for candidates to differentiate themselves. Considering the emphases of Hilary Clinton and Bernie Sanders in their 2016 campaigns gives an idea of how candidates may develop their distinct identities. 
 
 Below are graphs categorizing every tv campaign ad aired during the 2016 primary. TV ads paint a window into how candidates appeal themselves to mass audiences and which messages they dedicate their time towards promoting.
