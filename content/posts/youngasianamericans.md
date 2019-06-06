@@ -3,6 +3,8 @@ title: "Young Asian Americans: A Growing Blue Coalition"
 date: 2019-05-25T15:47:48-07:00
 draft: false
 ---
+<sup>*Author: Lena Han*</sup>
+
 For many years, Asian-Americans were considered a swing vote—that is, when they voted. Asian-American voter turnout has consistently lagged behind other ethnic groups. Growing up, I and the majority of my Asian peers found ourselves surrounded by politically-unengaged parents who cared little about issues of environmental bills, healthcare, or civil rights.
 
 More recently though, growing numbers of young Asian-Americans have been spurred into political activism, especially angered by the exclusionary rhetoric espoused by candidates on the right. As a result, a distinctive generational gap between younger and older Asian-American voters has formed.
