@@ -1,7 +1,7 @@
 ---
 title: "Democratic Campaign Ads: What 2016 Tells Us About 2020"
+author: Lena Han
 date: 2019-06-06T14:59:50-07:00
-author: "Lena Han"
 draft: false
 ---
 With the 2020 Democratic Primary heading into full swing soon, every candidate is striving to carve out their own unique place in the field. Although certain issues, such as healthcare, are universally popular and will undoubtedly become talking points for all the candidates, other issues will be important for candidates to differentiate themselves. Considering the emphases of Hilary Clinton and Bernie Sanders in their 2016 campaigns gives an idea of how candidates may develop their distinct identities. 
