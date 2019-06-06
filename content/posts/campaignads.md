@@ -6,7 +6,7 @@ draft: false
 ---
 <sup>*Author: Lena Han*</sup>
 
-With the 2020 Democratic Primary heading into full swing soon, every candidate is striving to carve out their own unique place in the field. Although certain issues, such as healthcare, are universally popular and will undoubtedly become talking points for all the candidates, other issues will be important for candidates to differentiate themselves. Considering the emphases of Hilary Clinton and Bernie Sanders in their 2016 campaigns gives an idea of how candidates may develop their distinct identities. 
+With the 2020 Democratic Primary heading into full swing soon, every candidate is striving to carve out their own unique place in the field. Although certain issues, such as healthcare, are universally popular and will undoubtedly become talking points for all the candidates, other issues will be important for candidates to differentiate themselves. Considering the emphases of Hilary Clinton and Bernie Sanders in their 2016 campaigns gives an idea of how 2020 candidates may develop their distinct identities. 
 
 Below are graphs categorizing every tv campaign ad aired during the 2016 primary. TV ads paint a window into how candidates appeal themselves to mass audiences and which messages they dedicate their time towards promoting.
 
@@ -29,4 +29,4 @@ Clinton spent a major portion of her campaign marketing herself as family-focuse
 
 Consequently, for 2020 candidates with extensive histories working on specific issues, they can be expected to emphasize their unique backgrounds. Kamala Harris, for instance, may focus on her experience with criminal justice reform, and Elizabeth Warren may focus on her background challenging big banks and creating progressive economic policy. Candidates such as Beto O’Rourke or Amy Klobuchar who have less experience in a single area will likely struggle to distinguish themselves from the rest of the field.
 
-Even within a very small field, Clinton and Sanders consciously strove to differentiate their campaign emphases based on their backgrounds. Being able to point to specific backgrounds will be vital for 2020 candidates.
+Even within a very small field, Clinton and Sanders consciously strove to differentiate their campaign emphases based on their backgrounds. Being able to point to distinctive experiences and ideas will be vital for 2020 candidates.
