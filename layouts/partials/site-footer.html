@@ -2,8 +2,11 @@
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
     &copy; {{ now.Format "2006" }} {{ .Site.Title }}
-    Powered by <a href="https://gohugo.io/">Hugo</a>.
   </a>
+  <style>
+   body {color: white;}
+  </style>
+    <body>Powered by <a href="https://gohugo.io/">Hugo</a>.</body>
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
 </footer>
