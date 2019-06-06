@@ -3,10 +3,10 @@
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
     &copy; {{ now.Format "2006" }} {{ .Site.Title }}
   </a>
-  <style>
+   <div>{{ partial "social-follow.html" . }}</div>
+  </div>
+   <style>
    body {color: white;}
   </style>
-    <body>Powered by <a href="https://gohugo.io/">Hugo</a>.</body>
-    <div>{{ partial "social-follow.html" . }}</div>
-  </div>
+  <body>Powered by <a href="https://gohugo.io/">Hugo</a>.</body>
 </footer>
