@@ -1,4 +1,5 @@
 {{ $featured_image := .Params.featured_image }}
+{{ partials "google/analytics" . }}
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
@@ -16,13 +17,11 @@
         {{ end }}
       </div>
     </div>
-    {{ partials "google/analytics" . }}
   </header>
 {{ else }}
   <header>
     <div class="{{ .Site.Params.background_color_class | default "bg-black" }}">
       {{ partial "site-navigation.html" . }}
     </div>
-    {{ partials "google/analytics" . }}
   </header>
 {{ end }}
