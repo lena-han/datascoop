@@ -11,7 +11,7 @@ googleAnalytics = "UA-141260929-1"
 enableRobotsTXT = true
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
   
