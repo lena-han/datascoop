@@ -49,12 +49,14 @@ Sudden upward jumps after June 26 can be seen in Buttigieg, Williamson, and Harr
 Not only were the Democratic debates useful for the candidates on stage to stand out, but they also boosted general interest in the elections. Unfortunately, this increase in political attention did not seem to benefit the other four candidates who missed the debates (Mike Gravel, Seth Moulton, Steve Bullock, and Wayne Messam). Of these, only former-Senator Mike Gravel saw any increase in his following, likely a result of his highly-opinionated live-tweets during the debates. The lack of attention to these four candidates indicates that it will be virtually impossible for these four candidates to catch up to the other 20 candidates in the field without making the next debate.
 
 **An Eye Towards the Future**
+
 The winners of last week’s debates will need to capitalize on their performances to continue building support. Notably, Kamala Harris has had especially strong polling numbers following the debate; her support jumped six points in the past several days.<sup>2</sup>  With the campaign picking up, candidates will need to take advantage of every opportunity they can to distinguish themselves.
 
 At the end of July, there will be one more set of debates that have the same qualification requirements as these past debates; the September debates have much more stringent qualification requirements. For many of the candidates, this will be their last chance to make a lasting impression.
 
  
  --
+ 
 <sup>1</sup> The Upshot did an find an interesting visualization about Democratic Twitter [here](https://www.nytimes.com/interactive/2019/04/08/upshot/democratic-electorate-twitter-real-life.html)
 
 <sup>2</sup> Polling data taken from Morning Consult.
