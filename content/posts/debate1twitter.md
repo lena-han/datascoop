@@ -1,7 +1,7 @@
 ---
 title: "Who won the First Democratic Primary Debates? As Told by Twitter Followers"
 date: 2019-07-01T16:46:30-04:00
-draft: false
+draft: true
 ---
 
 For the past decade, politics have become intertwined with Twitter as politicians have increasingly used the site to communicate their platforms, actions, and commentary. Through Twitter, we gain access to politicians’ most immediate messages—how else would we know that President Trump found the Democratic primary debates “Boring!”?
@@ -54,8 +54,9 @@ The winners of last week’s debates will need to capitalize on their performanc
 At the end of July, there will be one more set of debates that have the same qualification requirements as these past debates; the September debates have much more stringent qualification requirements. For many of the candidates, this will be their last chance to make a lasting impression.
 
  
- 
+ --
 <sup>1</sup> The Upshot did an find an interesting visualization about Democratic Twitter [here](https://www.nytimes.com/interactive/2019/04/08/upshot/democratic-electorate-twitter-real-life.html)
+
 <sup>2</sup> Polling data taken from Morning Consult.
 
 
