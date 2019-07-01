@@ -21,7 +21,7 @@ However, unlike name-recognition, following someone on Twitter is an active deci
 
 Despite these caveats, the follower counts show clear winners from the two nights of debates.
 
-**Each Candidate’s Increase Followers in the 12 Hours Following Their Debate**
+**Each Candidate’s Increase in Followers in the 12 Hours Following Their Debate**
 
 First, I tracked the number of followers each candidate gained twelve hours after their respective debates concluded.
 
