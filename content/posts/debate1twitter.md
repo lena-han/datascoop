@@ -39,15 +39,15 @@ The irony is that his *lack* of tv time likely contributed more than anything el
 
 **Overall Trends**
 
-The sudden jump in followers that some of the candidates had after the debate is even more stark when looking at trends from the beginning of May. (Bernie is excluded from this graph because his high follower counts make comparisons difficult).
+The sudden jump in followers that some of the candidates had after the debate is even more stark when looking at trends from the beginning of May. (Bernie is excluded from this graph because his high follower counts make comparisons difficult)
 
 ![May through June](/images/May-June.png)
 
-Sudden upward jumps after June 26 can be seen in Buttigieg, Williamson, and Harris’s lines (in addition to Yang and Castro). Of these, Warren, Harris, Buttigieg, and Yang had been steadily building their Twitter following in the month leading up to the debate already; their boosts after the debates were, to an extent, continuations in their rises in popularity. On the other hand, Castro and Williamson saw truly unforecasted jumps in their Twitter followings post-Debate—whether this translates into poll numbers is yet to be seen.
+Sudden upward jumps after June 26 can be seen in Buttigieg, Williamson, and Harris’s lines (in addition to Yang and Castro). Of these, Warren, Harris, Buttigieg, and Yang had been steadily building their Twitter followings in the month leading up to the debate already; their boosts after the debates were, to an extent, continuations in their rises in popularity. On the other hand, Castro and Williamson saw truly unforecasted jumps in their Twitter followings post-debate—whether they can translate this into poll numbers is yet to be seen.
 
 **What about the candidates who missed the debates?**
 
-Not only were the Democratic debates useful for the candidates on stage to stand out, but they also boosted general interest in the elections. Unfortunately, this increase in political attention did not seem to benefit the other four candidates who missed the debates (Mike Gravel, Seth Moulton, Steve Bullock, and Wayne Messam). Of these, only former-Senator Mike Gravel saw any increase in his following, likely a result of his highly-opinionated live-tweets during the debates. The lack of attention to these four candidates indicates that it will be virtually impossible for these four candidates to catch up to the other 20 candidates in the field without making the next debate.
+Not only were the Democratic debates useful for the candidates on stage to stand out, but they also boosted general interest in the elections. Unfortunately, this increase in political attention did not seem to benefit the four candidates who missed the debates (Mike Gravel, Seth Moulton, Steve Bullock, and Wayne Messam). Of these, only former-Senator Mike Gravel saw any increase in his following, likely a result of his highly-opinionated live-tweets during the debates. The lack of attention to these four candidates indicates that it will be virtually impossible for these four candidates to catch up to the other 20 candidates in the field without making the next debate.
 
 **An Eye Towards the Future**
 
