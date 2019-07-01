@@ -24,7 +24,7 @@ Despite these caveats, the follower counts show clear winners from the two night
 
 First, I tracked the number of followers each candidate gained twelve hours after their respective debates concluded.
 
-![12-Hour Increase](/images/Debate 1_12 Hour Increase.png)
+![12-Hour Increase](/images/Debate 1-12 Hour Increase.png)
 
 Of the candidates in the first night debate, former Housing and Urban Development Secretary Julian Castro had the greatest increase in followers, by far. This aligns with the general media perception of the first debate; there was strong consensus that Elizabeth Warren and Julian Castro had the strongest showings. Julian Castro, who entered the debate polling at less than 1 percent, had several big moments in the debate, proving to be a leader in immigration policy, connecting with the LGBTQ+ community, and calling for reproductive justice. Although Warren also had a strong night, her already-massive Twitter-following and high name-recognition made her rise less drastic.
 
