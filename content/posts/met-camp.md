@@ -12,7 +12,8 @@ The 2019 Met spring exhibit, “Camp: Notes on Fashion,” is ambitious. Camp is
 The exhibit opened three days after the 2019 Camp-themed Met Gala. It is organized in three stages: the first stage explores the historical development of Camp; the second stage uses excerpts of Sontag’s essay to characterize Camp; the third stage is a massive, sensational room filled with Camp fashion. The dozens of pieces exhibited in this final room are witty, extravagant, and self-aware.
 
 ![Assorted Camp Pieces](/images/CampPieces.png)
-<sup>From left to right: Manish Arora’s Carousel Dress; Jeremy Scott’s TV Dinner Dress; Franco Moschino’s Ballerina Dress</sup>
+<sup>Manish Arora’s Carousel Dress; Jeremy Scott’s TV Dinner Dress; Franco Moschino’s Ballerina Dress</sup>
+
 <sub><sup> Photos by Alexandra Charitan, Roadtrippers</sup></sub>
 
 Revisiting Sontag’s original essay, though, reveals how the Met adopted a sanitized, audience-pleasing version of Camp.
@@ -31,7 +32,7 @@ In this sense, the Met’s “Camp: Notes on Fashion” exhibit is a symptom of 
 
 In addition, Sontag writes that Camp is meant to be purely aesthetic, and as a result, “disengaged, depoliticized—or at least apolitical.” However, the Met politicized Camp in an easy, commercial manner. The exhibit was deeply conscious that it was displayed during pride month, during the year of the 50th anniversary of Stonewall; among the first works seen in the final exhibition room is a grandiose rainbow-colored cape. Furthermore, the exhibit feels inextricably tied to Hollywood, which has become a highly-political space.
 
-![Camp Pride Cape](/images/CampPride.png)
+![Camp Pride Cape](/images/CampPrideBeta.png)
 <sup>Christopher Bailey for Burberry, Pride Cape</sup>
 
 Finally, Sontag reflects that “probably, intending to be campy is always harmful.” Yet the Met Gala asked celebrities to do exactly that: to dress with the theme of Camp. Their request diverged from the pure Camp sensibility and, frankly, just left many celebrities confused. Celebrities’ vastly different interpretations of Camp provided the impression that nearly everything could be considered Camp, cheapening Sontag’s thoughtful framework. The Gala failed to substantively interact with Camp fashion; instead, it only served to build hype for the Met exhibit.
