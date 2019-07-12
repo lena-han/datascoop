@@ -3,7 +3,7 @@ title: "How the Met Commercialized 'Camp'"
 date: 2019-07-12 9:46:30 -0400
 featured_image: "/images/CampAd.png"
 category: "Art"
-draft: false
+draft: true
 ---
 <sup>*Author: Lena Han*</sup>
 
