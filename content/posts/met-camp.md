@@ -22,7 +22,7 @@ But the sentiment feels uncanny when those artists, supposedly defying the serio
 
 ![Bar Graph of Where Camp Designers are From](/images/CampBar.png)
 
-On a map, the lack of diversity in the designers is even more striking. Out of the 75 designers featured, only 13 cities were represented. Not a single brand represented was based in Africa, South America, or Australia.
+The Met website claims that “Camp has long been a space of diversity and inclusivity, as evidenced by the colorful and playful embroidery of Indian designers Manish Arora and Ashish, and the black camp of Patrick Kelly and Dapper Dan.” But on a map, the lack of diversity in the designers is even more striking. Out of the 75 designers featured, only 13 cities were represented. Not a single brand represented was based in Africa, South America, or Australia.
 
 ![Map of Where Camp Designers are From](/images/CampMap.png)
 
@@ -35,7 +35,7 @@ In addition, Sontag writes that Camp is meant to be purely aesthetic, and as a r
 
 Finally, Sontag reflects that “probably, intending to be campy is always harmful.” Yet the Met Gala asked celebrities to do exactly that: to dress with the theme of Camp. Their request diverged from the pure Camp sensibility and, frankly, just left many celebrities confused. Celebrities’ vastly different interpretations of Camp provided the impression that nearly everything could be considered Camp, cheapening Sontag’s thoughtful framework. The Gala failed to substantively interact with Camp fashion; instead, it only served to build hype for the Met exhibit.
 
-Ultimately, the Met’s “Camp: Notes on Fashion” exhibit is entertaining and endlessly-flashy, but wholly-commercialized and institutional.
+Ultimately, the Met’s “Camp: Notes on Fashion” exhibit is entertaining and endlessly-flashy, but warps Camp into its most commercialized, institutional form.
 
 ---
 <sub><sup> Photos from the Met Website </sup></sub>
