@@ -8,6 +8,6 @@ draft: false
 try this
 
 
-![Camp Pride Cape](/images/CampPride.png)
+![Camp Pride Cape](/images/CampPrideBeta.png)
 
 Look at this pride cape my mans
