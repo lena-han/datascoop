@@ -6,3 +6,8 @@ category: "Art"
 draft: true
 ---
 try this
+
+
+![Camp Pride Cape](/images/CampPride.png)
+
+Look at this pride cape my mans
