@@ -2,6 +2,7 @@
 title: "Young Asian Americans: A Growing Blue Coalition"
 date: 2019-05-25T15:47:48-07:00
 category: "Politics"
+featured_image: "/images/CampAd.png"
 draft: false
 ---
 <sup>*Author: Lena Han*</sup>
