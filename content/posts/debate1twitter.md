@@ -2,7 +2,7 @@
 title: "Who won the First Democratic Primary Debates? As Told by Twitter Followers"
 date: 2019-07-01T16:46:30-04:00
 category: "Politics"
-draft: true
+draft: false
 ---
 <sup>*Author: Lena Han*</sup>
 
