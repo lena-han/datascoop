@@ -1,6 +1,6 @@
 ---
 title: "How the Met Commercialized 'Camp'"
-date: 2019-07-12 16:46:30 -0400
+date: 2019-07-12 9:46:30 -0400
 featured_image: "/images/CampAd.png"
 category: "Art"
 draft: false
