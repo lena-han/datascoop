@@ -67,5 +67,7 @@ Until YouTube’s revenue model become as reliable as television’s though, pol
 ---
 
 <sup>1</sup> The full datasets I used can be found [here](https://github.com/lena-han/datascoop/tree/master/static/datasets/political-late-night). I excluded musical guests because they are not interviewed.
+
 <sup>2</sup> Ratings were the season-to-date ratings at the end of June
+
 <sup>3</sup> The survey results can be found [here](https://www.statista.com/statistics/798845/late-night-show-hosts-favorability-usa/). I assigned point values to each percentage (very favorable=2; somewhat favorable=1; no opinion or never heard of=0; somewhat unfavorable=-1; very unfavorable=-2. The metric I used is the sum of each show’s points divided by two.
