@@ -1,7 +1,7 @@
 ---
 title: "Who won the First Democratic Primary Debates? As Told by Twitter Followers"
 date: 2019-07-01T16:46:30-04:00
-featured_image: "/images/debate1-background.png"
+featured_image: "/images/Debate1-background.png"
 category: "Politics"
 draft: false
 ---
