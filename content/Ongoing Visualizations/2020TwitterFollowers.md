@@ -15,7 +15,7 @@ Tip: View the visualization in full screen for better clarity
                          
                          
 ---
-                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
                
 {{< tableau1 >}}
 ---
