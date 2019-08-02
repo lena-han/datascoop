@@ -9,7 +9,12 @@ Since announcing their presidential campaigns, every 2020 candidate has increase
 
 Tip: View the visualization in full screen for better clarity
                     
-                     
+{}
+{}
+{}
+{}
+{}
+{}
 
 {{< tableau1 >}}
 
