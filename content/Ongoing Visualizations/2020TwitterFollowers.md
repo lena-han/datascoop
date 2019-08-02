@@ -7,4 +7,6 @@ draft: false
 ---
 Since announcing their presidential campaigns, every 2020 candidate has increased their Twitter following. Candidates were added and removed as they announced or withdrew from the race. Feel free to play around with the filters to zoom in on specific candidates or dates!
 
+{{< tableau1 >}}
+
 Last Updated: August 2, 2019
