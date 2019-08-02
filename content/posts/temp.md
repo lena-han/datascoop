@@ -6,4 +6,4 @@ category: "Politics"
 draft: false
 ---
 
-{{ .Get "Tableau1" }}
+{{< tableau1 >}}
