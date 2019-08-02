@@ -1,7 +1,6 @@
 ---
 title: "How Have the 2020 Candidates' Twitter Followers Changed Over Time?"
 date: 2019-08-01T16:46:30-04:00
-featured_image: "/images/debate1_updatedbackground.png"
 category: "Politics"
 draft: false
 ---
