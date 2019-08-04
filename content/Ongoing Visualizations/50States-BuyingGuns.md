@@ -6,7 +6,8 @@ draft: false
 ---
 Gun laws vary considerably by state; this map explores the most common restrictions on gun-buying in all 50 states and the District of Columbia, creating a scale from 1-10. The criteria focuses on are whether states require state gun license permits, firearm registration, owner licenses, background checks, and waiting periods. <!--more-->Although many states have other restrictions, these five attributes are the most standardized. In addition, restrictions on gun usage (such as conceal-and-carry laws) were not considered.
 
-Tip: View the visualization in full screen for better clarity                                                                                                                                                                                        
+Click on specific states to see their restrictions!
                
 {{< tableau2 >}}
+
 ---
