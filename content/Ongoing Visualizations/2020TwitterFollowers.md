@@ -1,6 +1,6 @@
 ---
 title: "How Have the 2020 Candidates' Twitter Followers Changed Over Time?"
-date: 2019-08-01T16:46:30-04:00
+date: 2019-08-05T16:46:30-04:00
 category: "Politics"
 draft: false
 ---
@@ -13,4 +13,4 @@ Tip: View the visualization in full screen for better clarity
 {{< tableau1 >}}
 ---
 
-Last Updated: August 2, 2019
+Last Updated: August 5, 2019
