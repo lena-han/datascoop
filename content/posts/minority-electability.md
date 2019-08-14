@@ -34,7 +34,7 @@ One of the most notable trends among these 16 representatives is their freshness
 
 This is encouraging news for minority candidates—it’s an indication of the growing success of diverse candidates. However, it is also a testament to the massive historicism of the 2018 Midterm elections. The 2018 election was an anomaly in many ways, especially in voter turnout, and it is unclear if the massive success of Democratic minority candidates is the beginning of a trend, or simply an asterisk in the history books. 
 
-Ideology-wise, these representatives are fairly split. Although there certainly are some moderates among these 16 representatives, others such as Joe Neguse and Ilhan Omar are among the most liberal representatives of the House. As seen in the below table, on key progressive-moderate disagreements, these representatives' stances are fairly on par with all House Democrats.
+Ideology-wise, these representatives are fairly split. While there certainly are some moderates among these 16 representatives, others such as Joe Neguse and Ilhan Omar are among the most liberal representatives of the House. As seen in the below table, on key progressive-moderate disagreements, these representatives' stances are fairly on par with all House Democrats.
 
 ![Positions of Minority Reps](/images/Electability_CandidatePositions.png)
 
