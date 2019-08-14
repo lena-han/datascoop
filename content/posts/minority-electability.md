@@ -26,7 +26,7 @@ There are 22 minority representatives from districts less diverse than the overa
 
 Of these 22, six were Republicans, leaving just 16 minority Democratic candidates who managed to win election in less diverse districts.
 
-Who are these 16 Representatives, and what does it mean for 2020?
+**Who are these 16 Representatives, and what does it mean for 2020?**
 
 One of the most notable trends among these 16 representatives is their freshness to DC. Of the 16, only two have served more than three terms: Andre Carson (IN-7) and Emanuel Cleaver (MO-5). Over half of them were elected to the House for the first time in 2018. Considering that the average length of service in the House of Representatives is 9.1 years, according to the Congressional Research Service, these are striking figures.
 
@@ -51,6 +51,5 @@ Conversations about race and electability have become an unfortunate reinforcing
 ---
 
 Data sets can be found [here](https://github.com/lena-han/datascoop/tree/master/static/datasets/minority-electability)
-
 
 <sup>1</sup>Data is from the 2017 American Community Survey 1-Year Estimate
