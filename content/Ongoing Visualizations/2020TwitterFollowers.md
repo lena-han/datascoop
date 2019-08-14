@@ -13,4 +13,4 @@ Tip: View the visualization in full screen for better clarity
 {{< tableau1 >}}
 ---
 
-Last Updated: August 5, 2019
+Last Updated: August 14, 2019
