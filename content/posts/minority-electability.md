@@ -16,7 +16,7 @@ However, the current U.S. House of Representatives indicates that this concern m
 
 In the current U.S. House of Representatives, there are 108 total representatives who are members of racial/ethnic minorities. Of these representatives, 70% represent majority-minority constituencies. Indeed, districts with Black, Hispanic/Latinx, and Asian representatives all have higher minority percentages, on average, than the United States.
 
-![% Minority in Districts with Minority Reps](/images/Electability_%Minority.png)
+![% Minority in Districts with Minority Reps](/images/Electability_MinorityProp.png)
 
 By itself, this statistic is unsurprising; voters hope to elect leaders who understand the community and will represent their interests, and racial identity can play a role. However, it is worth focusing in on those minority representatives who were elected in districts less diverse than the US. Candidly, democratic candidates who hope to defeat Trump in 2020 will need to garner support from white supporters and districts. Focusing in on the minority candidates who successfully were elected in non-diverse districts can give an indication of what that takes.
 
