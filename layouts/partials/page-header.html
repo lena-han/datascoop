@@ -1,7 +1,5 @@
 {{ $featured_image := .Params.featured_image }}
 {{ partial "google/analytics" . }}
-<meta property="og:type" content="blog">
-<meta name="image" property="og:image" content="http://thedatascoop.netlify.com/images/android-chrome-192x192.png">
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image := (trim $featured_image "/") | absURL }}
