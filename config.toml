@@ -2,6 +2,7 @@ baseURL = "http://thedatascoop.netlify.com/"
 languageCode = "en-us"
 title = "The Data Scoop"
 theme = "gohugo-theme-ananke"
+sitemap = "sitemap.xml"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -14,7 +15,7 @@ enableRobotsTXT = true
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
-  
+
 [params]
   favicon = "/images/favicon.ico"
   description = "Telling Stories With Data"
@@ -30,6 +31,6 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/nyc.png"
   recent_posts_number = 10
-  
+
  [taxonomies]
  category = "categories"
