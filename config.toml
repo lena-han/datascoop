@@ -11,10 +11,6 @@ Paginate = 9 # this is set low for demonstrating with dummy content. Set to a hi
 googleAnalytics = "UA-141260929-1"
 enableRobotsTXT = true
 
-[sitemap]
-  changefreq = "weekly"
-  priority = 0.5
-  filename = "sitemap.xml"
 
 [params]
   favicon = "/images/favicon.ico"
