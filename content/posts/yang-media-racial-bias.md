@@ -9,7 +9,7 @@ draft: false
 <meta name="title" content="Lack of News Coverage on Andrew Yang Reflects Racial Biases in Media | The Data Scoop" />
 <meta property="og:image" content="http://thedatascoop.netlify.com/images/newspaperstock.jpg" />
 <meta name="twitter:image" content="http://thedatascoop.netlify.com/images/newspaperstock.jpg" />
-<meta name="twitter:description" content = "Punditry about Andrew Yang’s presidential campaign is conspicuously missing. Dismal newsroom representation, coupled with long-standing stereotypes, results in an under-discussed Yang campaign" />
+<meta name="twitter:description" content = "Punditry about Andrew Yang’s presidential campaign is conspicuously missing." />
 <sup>*Author: Lena Han*</sup>
 
 Punditry about Andrew Yang’s presidential campaign is conspicuously missing.
