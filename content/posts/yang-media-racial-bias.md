@@ -2,15 +2,17 @@
 title: "Lack of News Coverage on Andrew Yang Reflects Racial Biases in Media"
 author: Lena Han
 date: 2019-09-02T14:59:50-07:00
-featured_image: ""
+featured_image: "/images/newspaperstock.jpg"
 category: "Politics"
-draft: true
+draft: false
 ---
+<meta name="title" content="Lack of News Coverage on Andrew Yang Reflects Racial Biases in Media | The Data Scoop" />
+<meta property="og:image" content="http://thedatascoop.netlify.com/images/newspaperstock.jpg" />
 <sup>*Author: Lena Han*</sup>
 
 Punditry about Andrew Yang’s presidential campaign is conspicuously missing.
 
-Although he began his campaign with no political experience or name recognition, Yang successfully qualified for the September Democratic primary debates earlier than several other major candidates. Today, he is consistently polling around eighth place, but his media coverage remains disproportionately low. According to [RealClearPolitics]( https://www.realclearpolitics.com/articles/2019/08/22/ranking_the_2020_democratic_candidates_by_media_coverage.html
+Although he began his campaign with no political experience or name recognition, Yang successfully qualified for the September Democratic primary debates earlier than several other major candidates. Today, he is consistently polling around [eighth place](https://www.realclearpolitics.com/epolls/2020/president/us/2020_democratic_presidential_nomination-6730.html), but his media coverage remains disproportionately low. According to [RealClearPolitics]( https://www.realclearpolitics.com/articles/2019/08/22/ranking_the_2020_democratic_candidates_by_media_coverage.html
 ), Yang is ranked 13th in terms of TV media coverage and a dismal 19th in terms of online mentions. Both mainstream broadcast and print journalism seem to have written him off as a blip in the crowded primary field.
 
 ![Yang Media Coverage and Polling](/images/Yangmedia.png)
