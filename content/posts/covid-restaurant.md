@@ -10,6 +10,6 @@ draft: false
 
 Although metrics such as number of confirmed cases or unemployment claims often have significant time delays, restaurant occupancy is tracked and published daily. The animation shows the percent change in restaurant occupancy compared to the same day in 2019 in cities across the U.S.
 
-{{</images/covid-restaurant.mp4>}}
+{{< youtube sXEaf8Mp3ME >}}
 
 The data is from [OpenTable](https://www.opentable.com/state-of-industry).

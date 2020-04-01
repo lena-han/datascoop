@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Data Scoop</title>
+    <link>http://thedatascoop.netlify.com/</link>
+    <description>Recent content on The Data Scoop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2020 14:59:50 -0700</lastBuildDate>
+    
+	<atom:link href="http://thedatascoop.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tracking COVID-19 Via Declining Restaurant Occupancy</title>
+      <link>http://thedatascoop.netlify.com/posts/covid-restaurant/</link>
+      <pubDate>Tue, 31 Mar 2020 14:59:50 -0700</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/covid-restaurant/</guid>
+      <description>Author: Lena Han
+Although metrics such as number of confirmed cases or unemployment claims often have significant time delays, restaurant occupancy is tracked and published daily. The animation shows the percent change in restaurant occupancy compared to the same day in 2019 in cities across the U.S.
+
+The data is from OpenTable.</description>
+    </item>
+    
+    <item>
+      <title>Lack of News Coverage on Andrew Yang Reflects Racial Biases in Media</title>
+      <link>http://thedatascoop.netlify.com/posts/yang-media-racial-bias/</link>
+      <pubDate>Mon, 02 Sep 2019 14:59:50 -0700</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/yang-media-racial-bias/</guid>
+      <description>Author: Lena Han
+Punditry about Andrew Yang’s presidential campaign is conspicuously missing.
+Although he began his campaign with no political experience or name recognition, Yang successfully qualified for the September Democratic primary debates earlier than several other major candidates. Today, he is consistently polling around eighth place, but his media coverage remains disproportionately low. According to RealClearPolitics, Yang is ranked 13th in terms of TV media coverage and a dismal 19th in terms of online mentions.</description>
+    </item>
+    
+    <item>
+      <title>Minority candidates ARE electable: Lessons from the U.S. House of Representatives</title>
+      <link>http://thedatascoop.netlify.com/posts/minority-electability/</link>
+      <pubDate>Tue, 13 Aug 2019 14:59:50 -0700</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/minority-electability/</guid>
+      <description>Author: Lena Han
+With Democrats desperate to elect anyone but Trump, electability has become a top concern for primary voters. Female and minority candidates have been placed under heightened scrutiny as electability has become entwined with identity.
+However, the current U.S. House of Representatives indicates that this concern may be misplaced. The minority representatives in the House come from a massive range of districts, including districts significantly less diverse than the overall United States.</description>
+    </item>
+    
+    <item>
+      <title>How Have the 2020 Candidates&#39; Twitter Followers Changed Over Time?</title>
+      <link>http://thedatascoop.netlify.com/ongoing-visualizations/2020twitterfollowers/</link>
+      <pubDate>Mon, 05 Aug 2019 16:46:30 -0400</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/ongoing-visualizations/2020twitterfollowers/</guid>
+      <description>&lt;p&gt;Since announcing their presidential campaigns, every 2020 candidate has increased their Twitter following. Candidates were added and removed as they announced or withdrew from the race. Feel free to play around with the filters to zoom in on specific candidates or dates!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How hard is it to buy a gun in your state?</title>
+      <link>http://thedatascoop.netlify.com/ongoing-visualizations/50states-buyingguns/</link>
+      <pubDate>Sun, 04 Aug 2019 16:46:30 -0400</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/ongoing-visualizations/50states-buyingguns/</guid>
+      <description>&lt;p&gt;Gun laws vary considerably by state; this map explores the most common restrictions on gun-buying in all 50 states and the District of Columbia, creating a scale from 1-10. The criteria focuses on are whether states require state gun license permits, firearm registration, owner licenses, background checks, and waiting periods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>From Colbert to Corden: How Political Guests are Affecting Late-Night Talk Shows</title>
+      <link>http://thedatascoop.netlify.com/posts/political-late-night/</link>
+      <pubDate>Wed, 24 Jul 2019 14:59:50 -0700</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/political-late-night/</guid>
+      <description>Author: Lena Han
+Every late-night talk show host seems to have perfected a Trump impression, performing the same signature hand gestures, squinting facial expression, and repetitive speech patterns. And although impressions of political figures are nothing new, the past few years have seen an explosion of political guests, bits, and commentary on late-night talk shows.
+Indeed, the perception that late-night talk shows have become a Trump slugfest has only been heightened by the president himself.</description>
+    </item>
+    
+    <item>
+      <title>How the Met Commercialized &#39;Camp&#39;</title>
+      <link>http://thedatascoop.netlify.com/posts/met-camp/</link>
+      <pubDate>Fri, 12 Jul 2019 09:46:30 -0400</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/met-camp/</guid>
+      <description>Author: Lena Han
+The 2019 Met spring exhibit, “Camp: Notes on Fashion,” is ambitious. Camp is an esoteric, abstract concept, unfamiliar to most Met visitors. As an aesthetic, Camp is less unified than Pop Art; as a movement, Camp is less historically-coherent than Impressionism; as an art form, Camp is less orthodox than Renaissance paintings. However, using framing from Susan Sontag’s seminal essay, “Notes on Camp,” the Met exhibit impressively communicates the meaning of Camp—an exaggerated, artificial, and anti-serious sensibility.</description>
+    </item>
+    
+    <item>
+      <title>Who won the First Democratic Primary Debates? As Told by Twitter Followers</title>
+      <link>http://thedatascoop.netlify.com/posts/debate1twitter/</link>
+      <pubDate>Mon, 01 Jul 2019 16:46:30 -0400</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/debate1twitter/</guid>
+      <description>Author: Lena Han
+For the past decade, politics have become intertwined with Twitter as politicians have increasingly used the site to communicate their platforms, actions, and commentary. Through Twitter, we gain access to politicians’ most immediate messages—how else would we know that President Trump found the Democratic primary debates “Boring!”?
+However, Twitter can also indicate the popularity of different politicians; looking at how the Democratic primary candidates’ follower counts changed over the past week gives an indication of how well they performed at the debates.</description>
+    </item>
+    
+    <item>
+      <title>Democratic Campaign Ads: What 2016 Tells Us About 2020</title>
+      <link>http://thedatascoop.netlify.com/posts/campaignads/</link>
+      <pubDate>Thu, 06 Jun 2019 14:59:50 -0700</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/campaignads/</guid>
+      <description>Author: Lena Han
+With the 2020 Democratic Primary heading into full swing soon, every candidate is striving to carve out their own unique place in the field. Although certain issues, such as healthcare, are universally popular and will undoubtedly become talking points for all the candidates, other issues will be important for candidates to differentiate themselves. Considering the emphases of Hilary Clinton and Bernie Sanders in their 2016 campaigns gives an idea of how 2020 candidates may develop their distinct identities.</description>
+    </item>
+    
+    <item>
+      <title>Young Asian Americans: A Growing Blue Coalition</title>
+      <link>http://thedatascoop.netlify.com/posts/youngasianamericans/</link>
+      <pubDate>Sat, 25 May 2019 15:47:48 -0700</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/posts/youngasianamericans/</guid>
+      <description>Author: Lena Han
+For many years, Asian-Americans were considered a swing vote—that is, when they voted. Asian-American voter turnout has consistently lagged behind other ethnic groups. Growing up, I and the majority of my Asian peers found ourselves surrounded by politically-unengaged parents who cared little about issues of environmental bills, healthcare, or civil rights.
+More recently though, growing numbers of young Asian-Americans have been spurred into political activism, especially angered by the exclusionary rhetoric espoused by candidates on the right.</description>
+    </item>
+    
+  </channel>
+</rss>

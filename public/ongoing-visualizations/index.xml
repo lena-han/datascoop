@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing Visualizations on The Data Scoop</title>
+    <link>http://thedatascoop.netlify.com/ongoing-visualizations/</link>
+    <description>Recent content in Ongoing Visualizations on The Data Scoop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Aug 2019 16:46:30 -0400</lastBuildDate>
+    
+	<atom:link href="http://thedatascoop.netlify.com/ongoing-visualizations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Have the 2020 Candidates&#39; Twitter Followers Changed Over Time?</title>
+      <link>http://thedatascoop.netlify.com/ongoing-visualizations/2020twitterfollowers/</link>
+      <pubDate>Mon, 05 Aug 2019 16:46:30 -0400</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/ongoing-visualizations/2020twitterfollowers/</guid>
+      <description>&lt;p&gt;Since announcing their presidential campaigns, every 2020 candidate has increased their Twitter following. Candidates were added and removed as they announced or withdrew from the race. Feel free to play around with the filters to zoom in on specific candidates or dates!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How hard is it to buy a gun in your state?</title>
+      <link>http://thedatascoop.netlify.com/ongoing-visualizations/50states-buyingguns/</link>
+      <pubDate>Sun, 04 Aug 2019 16:46:30 -0400</pubDate>
+      
+      <guid>http://thedatascoop.netlify.com/ongoing-visualizations/50states-buyingguns/</guid>
+      <description>&lt;p&gt;Gun laws vary considerably by state; this map explores the most common restrictions on gun-buying in all 50 states and the District of Columbia, creating a scale from 1-10. The criteria focuses on are whether states require state gun license permits, firearm registration, owner licenses, background checks, and waiting periods.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
